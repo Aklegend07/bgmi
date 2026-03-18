@@ -1,0 +1,5 @@
+usage 
+
+
+chmod +x bgmi
+sudo ./bgmi 8.8.8.8 10101 400
